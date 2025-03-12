@@ -6,7 +6,10 @@ local rest_time = 700 -- Thời gian nghỉ trước khi tiếp tục spam (giâ
 
 -- Danh sách tin nhắn ngẫu nhiên để tránh bị phát hiện
 local messages = {
-    "cheapest account at shopbloxfruit. c o m"
+    "fruits cheap at - shopbloxfruit. c o m"
+    "shop ac blox re - shopbloxfruit. c o m"
+    "shop acc kitsune yeti dragon - shopbloxfruit. c o m"
+    "get more fruit kitsune yeti dragon - shopbloxfruit. c o m"
 }
 
 -- Hàm chọn tin nhắn ngẫu nhiên
