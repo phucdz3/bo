@@ -8,7 +8,8 @@ local rest_time = 300  -- Thời gian nghỉ trước khi tiếp tục spam (gi�
 
 -- Danh sách tin nhắn ngẫu nhiên để tránh bị phát hiện
 local messages = {
-    "shop acc kitsune yeti Leopard - bloxshopvn. n e t",
+    "🔥 Cheap fruits at bloxshopvn n e t 🍎",
+    "💎 Best deals only at bloxshopvn n e t 💰",
 }
 
 -- Lấy dịch vụ chat mới
